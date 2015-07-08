@@ -1,0 +1,19 @@
+{
+  "name": "test-travis-deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mkdir dist; cp package.json dist/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexeagle/test-travis-deploy.git"
+  },
+  "author": "Alex Eagle <alexeagle@google.com> (https://angularjs.org/)",
+  "license": "Apache 2",
+  "bugs": {
+    "url": "https://github.com/alexeagle/test-travis-deploy/issues"
+  },
+  "homepage": "https://github.com/alexeagle/test-travis-deploy#readme"
+}
